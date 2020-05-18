@@ -2,3 +2,5 @@
 *.css linguist-language=java
 *.html linguist-language=java
 *.jsp linguist-language=java
+*.png linguist-language=java
+*.json linguist-language=java
